@@ -27,4 +27,4 @@ else:
                     print("Ganaste, mi numero era el {}".format(number_to_guess))
                 else:
                     print("lo siento pero no lo acertaste ni una vez, se te acabaron los intentos")
-                    print("PERDISTE")
+                    print("-PERDISTE-")
