@@ -11,4 +11,4 @@ esta_senor_helados = esta_senor_helados_input == "SI "
 if apetece_helado and puede_permitirselo and esta_senor_helados:
     print("Pues comete un helado")
 else:
-    print("pues nada")
+    print("pues nada, otro dia sera")
