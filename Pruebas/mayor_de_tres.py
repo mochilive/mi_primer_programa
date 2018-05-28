@@ -1,7 +1,7 @@
-primer_numero = int(input("Primer numero: "))
-segundo_numero = int(input("Segundo numero: "))
-tercer_numero = int(input("Tercer numero: "))
+n1 = int(input("Primer numero: "))
+n2 = int(input("Segundo numero: "))
+n3 = int(input("Tercer numero: "))
 
-resultado = max(primer_numero, segundo_numero, tercer_numero)
+resultado = max(n1, n2, n3)
 
 print("El numero mas grande es {}" .format(resultado))
